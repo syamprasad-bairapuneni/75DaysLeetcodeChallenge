@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/syamprasad-bairapuneni/75DaysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/syamprasad-bairapuneni/75DaysLeetcodeChallenge/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/syamprasad-bairapuneni/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/syamprasad-bairapuneni/75DaysLeetcodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/syamprasad-bairapuneni/75DaysLeetcodeChallenge/tree/master/1929-concatenation-of-array) |
@@ -38,4 +39,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/syamprasad-bairapuneni/75DaysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/syamprasad-bairapuneni/75DaysLeetcodeChallenge/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
