@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/syamprasad-bairapuneni/75DaysLeetcodeChallenge/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/syamprasad-bairapuneni/75DaysLeetcodeChallenge/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/syamprasad-bairapuneni/75DaysLeetcodeChallenge/tree/master/0184-department-highest-salary) |
+| [0511-game-play-analysis-i](https://github.com/syamprasad-bairapuneni/75DaysLeetcodeChallenge/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/syamprasad-bairapuneni/75DaysLeetcodeChallenge/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/syamprasad-bairapuneni/75DaysLeetcodeChallenge/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/syamprasad-bairapuneni/75DaysLeetcodeChallenge/tree/master/1741-find-total-time-spent-by-each-employee) |
